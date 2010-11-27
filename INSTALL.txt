@@ -1,0 +1,34 @@
+$Id$
+
+################################################################################
+# BrainDead version 0.0.1                                                      #
+#                                                                              #
+# Copyright (c) 2009, Jean-David Gadina <macmade@eosgarden.com>                #
+# All rights reserved.                                                         #
+#                                                                              #
+# BrainDead is released under the Boost license.                               #
+# See LICENSE.txt for the license terms.                                       #
+################################################################################
+
+Compilation:
+--------------------------------------------------------------------------------
+    
+    - Compilation is done through the "make" command. Note that you can
+      overwrite configuration variables, defined in the "makefile-config.mk"
+      file. For instance:
+      
+      $ make DEBUG_CC=1
+
+Installation:
+--------------------------------------------------------------------------------
+    
+    - Installation is done through the "make install" command. The default
+      installation directory is "/usr/local/", but you can specify an alternate
+      location by using the "prefix" variable. For instance:
+      
+      $ sudo make install prefix=/path/to/directory
+    
+    - If you specify an alternate location, you will probably have to modify
+      your "PATH" environment variable. For instance:
+      
+      export PATH=/path/to/directory/bin:$PATH
