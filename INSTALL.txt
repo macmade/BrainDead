@@ -3,7 +3,7 @@ $Id$
 ################################################################################
 # BrainDead version 0.0.1                                                      #
 #                                                                              #
-# Copyright (c) 2009, Jean-David Gadina <macmade@eosgarden.com>                #
+# Copyright (c) 2009, Jean-David Gadina - www.xs-labs.com                      #
 # All rights reserved.                                                         #
 #                                                                              #
 # BrainDead is released under the Boost license.                               #
