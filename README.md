@@ -1,7 +1,7 @@
 BrainDead
 =========
 
-[![Build Status](https://travis-ci.org/macmade/BrainDead.svg?branch=master)](https://travis-ci.org/macmade/BrainDead)
+[![Build Status](https://img.shields.io/travis/macmade/BrainDead.svg?branch=master&style=flat)](https://travis-ci.org/macmade/BrainDead)
 
 About
 -----
